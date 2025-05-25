@@ -1,65 +1,50 @@
-<h1 align="center">Khansa Rahim</h1>
-<p align="center">
-  <b>Software Engineer · DevOps + Security · GDSC Lead · Open to Research</b>  
-</p>
+# Khansa Rahim
+
+**Software Engineer | DevOps & Security Enthusiast | Community Leader | Open to Research & Open Source Opportunities**
 
 ---
 
-## 🧭 About
-
-I'm Khansa — a final-year Software Engineering student from Pakistan, with 7+ months of hands-on DevOps & InfoSec experience (SOC2, CI/CD, Vulnerability Mgmt), and an obsession with secure infrastructure, AI, and real-world impact.
-
-While my CGPA doesn’t tell the full story, my work, leadership, and curiosity do.
-
-I’ve revived clubs, led 1,000+ students, collaborated with global devs, and spoken on international stages — all while shipping secure systems and learning daily.
+## About Me  
+I am a final-year Software Engineering student from Pakistan with hands-on experience in DevOps, cloud infrastructure, and security. Alongside my academic journey, I have demonstrated leadership by spearheading large tech communities and mentoring peers. My passion lies in applying technology to solve real-world problems, especially in AI/ML, blockchain, and security domains.
 
 ---
 
-## ⚡ Interests
+## Core Competencies  
 
-- 🔐 Security & DevSecOps
-- ☁️ Infrastructure & Cloud Automation
-- 🧠 AI/ML Research
-- 🌐 Blockchain & Trust Systems
-- 🔍 Systems & Open Source Research
-
----
-
-## 🛠️ Stack Highlights
-
-| DevOps & Cloud      | Docker · Kubernetes · GitHub Actions · GCP · Firebase |
-|---------------------|------------------------------------------------------|
-| Security & Tools    | SOC2 · OWASP · Secrets Scanning · Compliance         |
-| Programming         | Python · JavaScript · Bash · C++                     |
-| Data & ML           | Pandas · Scikit-learn · TensorFlow (early stage)     |
-| Blockchain          | Solidity · Web3.js · EVM basics                      |
+| Domain              | Skills & Tools                                       |
+|---------------------|----------------------------------------------------|
+| **DevOps & Cloud**  | Docker, Kubernetes, GitHub Actions, GCP            |
+| **Security**        | SOC2 Compliance, Vulnerability Management, OWASP   |
+| **Programming**     | Python, JavaScript, Bash, C++                        |
+| **AI & Data Science** | Pandas, Scikit-learn, TensorFlow (in progress)     |
+| **Blockchain**      | Solidity, Web3.js basics                             |
 
 ---
 
-## 📣 Leadership & Community
-
-- 👩‍💻 **GDSC Lead, COMSATS** – Built the largest tech club at campus (1.2k+ members, 14+ partners)
-- ☁️ **Cloud Seekho Facilitator (Season 5)** – Trained 100+ students on cloud fundamentals
-- 🎤 **Speaker @ British Blockchain Association Forum** – Advocating blockchain literacy at universities
-
----
-
-## 🚀 What I'm Looking For
-
-> 📍 Research collaborations, fellowships, or assistantships  
-> 🎯 Areas: **AI/ML**, **Security**, **Data Science**, **Blockchain**, **Systems**  
-> 🌎 Open to **remote or hybrid** roles  
+## Leadership & Community Impact  
+- **GDSC Lead (COMSATS)**: Led Pakistan’s largest campus developer club with 1,200+ members, fostering cross-campus collaboration and organizing impactful tech events.  
+- **Facilitator, Cloud Seekho Season 5**: Trained over 100 students in cloud technologies, driving skill development for emerging professionals.  
+- **Speaker, British Blockchain Association Forum**: Advocated blockchain education and research, bridging academia and industry.
 
 ---
 
-## 📬 Reach Me
+## Research & Open Source Interests  
+I am actively seeking **remote research and open source opportunities** in the following areas:  
+- Artificial Intelligence & Machine Learning  
+- Systems & Network Security  
+- Blockchain Technologies  
+- Data Science & Large-scale Computing  
 
-- 💌 **Email:** khansarahim.dev@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/khansarahim)  
-- 🐦 [Twitter](https://twitter.com/khansarahim_)  
-- 📁 [Resume (optional link)](https://your-resume-link.com)
+If your project or team aligns with these fields, I’m eager to contribute, collaborate, and grow.
 
 ---
 
-### ☕ Let’s build something that matters.
+## Contact  
+📧 Email: khansarahim.dev@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/khansarahim](https://linkedin.com/in/khansarahim)  
+🐦 Twitter: [twitter.com/khansarahim_](https://twitter.com/khansarahim_)  
+
+---
+
+*Driven to learn fast, solve complex problems, and make a meaningful impact in technology.*
 
