@@ -1,5 +1,7 @@
 # 💫 About Me:
-Khansa Rahim is a passionate software engineer and DevOps enthusiast with hands-on experience in cloud infrastructure, security, and community leadership. Currently in her final year of study, she combines technical expertise with a proven track record of leading large developer communities and mentoring peers. Her core interests include AI/ML, blockchain, data science, and cybersecurity, where she actively seeks research and open source opportunities to contribute and grow. Khansa is dedicated to solving real-world problems through technology and collaboration, continuously sharpening her skills and embracing challenges with a growth mindset.<br>
+I’m a software engineer with a strong foundation in DevOps, cloud infrastructure, and security, actively expanding my expertise in AI/ML, blockchain, and data science. With over 7 months of hands-on experience and leadership roles in developer communities, I bring a collaborative and problem-solving mindset to every project.
+
+I’m passionate about contributing to open source and research initiatives that push the boundaries of technology, especially in security and scalable systems. Always eager to learn, I welcome opportunities to work on challenging problems and grow as a technical researcher and practitioner.<br>
 
 
 ## 🌐 Socials:
