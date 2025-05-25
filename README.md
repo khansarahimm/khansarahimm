@@ -1,53 +1,65 @@
-# 👋 Hey there! I'm Khansa Rahim
-
-🎓 **Final Year Software Engineering Student** | 💻 **DevOps & Security Enthusiast**  
+<h1 align="center">Khansa Rahim</h1>
+<p align="center">
+  <b>Software Engineer · DevOps + Security · GDSC Lead · Open to Research</b>  
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧭 About
 
-I'm a passionate software engineer driven by curiosity and purpose. My journey blends hands-on industry experience, open-source contributions, and leadership in developer communities.
+I'm Khansa — a final-year Software Engineering student from Pakistan, with 7+ months of hands-on DevOps & InfoSec experience (SOC2, CI/CD, Vulnerability Mgmt), and an obsession with secure infrastructure, AI, and real-world impact.
 
-### 🔍 I'm currently open to:
-- **Research collaborations** (remote or hybrid)
-- **Graduate scholarships in tech & research**
-- **Mentorship/Assistant roles in labs or projects**
-- **Fellowships or funded internships**
-- 
+While my CGPA doesn’t tell the full story, my work, leadership, and curiosity do.
 
-## 🚀 Tech Stack & Domains
-- **Languages:** Python, Bash, JavaScript, C++
-- **Tools & Frameworks:** Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, React, Flask
-- **DevOps & Security:** SOC2 Compliance, CI/CD, Vulnerability Management, Secrets Scanning
-- **Data & AI:** Pandas, NumPy, Scikit-learn, TensorFlow (early stage)
-- **Blockchain:** Smart contracts, Web3.js, EVM basics
-- **Cloud:** Google Cloud, Firebase, basic AWS
-- **Other:** Linux, Networking, Git, REST APIs
+I’ve revived clubs, led 1,000+ students, collaborated with global devs, and spoken on international stages — all while shipping secure systems and learning daily.
 
+---
 
-## 💼 My Highlights
-- 🌐 **GDSC Lead @ COMSATS** – Revived & scaled the largest tech club in the CS department with 35+ core team members and 1,200+ active members.
-- 🤝 **Cloud Seekho Season 5 Facilitator** – Led cloud learning tracks for 100+ students in Pakistan.
-- 🛡 **Industry Experience** – 7+ months DevOps & InfoSec experience across compliance, automation, and secure deployments.
-- 📣 **Speaker & Community Builder** – Invited speaker at the British Blockchain Association Forum, promoting blockchain education in universities.
-- 🧩 **Hackathon Organizer & PM** – Led teams, built products, and mentored others to innovate fast.
+## ⚡ Interests
 
+- 🔐 Security & DevSecOps
+- ☁️ Infrastructure & Cloud Automation
+- 🧠 AI/ML Research
+- 🌐 Blockchain & Trust Systems
+- 🔍 Systems & Open Source Research
 
-## 📚 Currently Exploring
-- 🔬 Research in **AI/ML**, **Blockchain**, **Security**, and **Data Science**
-- 🛠 Building a **DevSecOps automation toolkit**
-- 🎓 Preparing applications for **research-based master's scholarships** abroad
+---
 
+## 🛠️ Stack Highlights
 
-## 📫 Let's Connect!
-If you're working on something exciting or are looking for a motivated research assistant, I’d love to chat!
+| DevOps & Cloud      | Docker · Kubernetes · GitHub Actions · GCP · Firebase |
+|---------------------|------------------------------------------------------|
+| Security & Tools    | SOC2 · OWASP · Secrets Scanning · Compliance         |
+| Programming         | Python · JavaScript · Bash · C++                     |
+| Data & ML           | Pandas · Scikit-learn · TensorFlow (early stage)     |
+| Blockchain          | Solidity · Web3.js · EVM basics                      |
 
-📩 **Email:** khansarahim.dev@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/khansarahim)  
-🐦 [Twitter](https://twitter.com/khansarahim_)  
+---
 
+## 📣 Leadership & Community
 
-### ❤️ Open to research in:
-`Data Science` • `Blockchain` • `Security` • `AI/ML`  
-Let's build something meaningful together!
+- 👩‍💻 **GDSC Lead, COMSATS** – Built the largest tech club at campus (1.2k+ members, 14+ partners)
+- ☁️ **Cloud Seekho Facilitator (Season 5)** – Trained 100+ students on cloud fundamentals
+- 🎤 **Speaker @ British Blockchain Association Forum** – Advocating blockchain literacy at universities
+
+---
+
+## 🚀 What I'm Looking For
+
+> 📍 Research collaborations, fellowships, or assistantships  
+> 🎯 Areas: **AI/ML**, **Security**, **Data Science**, **Blockchain**, **Systems**  
+> 🌎 Open to **remote or hybrid** roles  
+
+---
+
+## 📬 Reach Me
+
+- 💌 **Email:** khansarahim.dev@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/khansarahim)  
+- 🐦 [Twitter](https://twitter.com/khansarahim_)  
+- 📁 [Resume (optional link)](https://your-resume-link.com)
+
+---
+
+### ☕ Let’s build something that matters.
 
