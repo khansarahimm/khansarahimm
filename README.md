@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software engineer with a strong foundation in DevOps, cloud infrastructure, and security, actively expanding my expertise in AI/ML, blockchain, and data science. With over 7 months of hands-on experience and leadership roles in developer communities, I bring a collaborative and problem-solving mindset to every project.
+I’m a software engineer with a strong foundation in DevOps, cloud infrastructure, and security, actively expanding my expertise in AI/ML. With over 1 year of hands-on experience and leadership roles in developer communities, I bring a collaborative and problem-solving mindset to every project.
 
 I’m passionate about contributing to open source and research initiatives that push the boundaries of technology, especially in security and scalable systems. Always eager to learn, I welcome opportunities to work on challenging problems and grow as a technical researcher and practitioner.<br>
 
